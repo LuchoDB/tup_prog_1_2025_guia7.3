@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B4BBBDE9-B8E7-4AE4-A7C4-E71B92F1532F}</ProjectGuid>
+    <ProjectGuid>{8A8730BC-EF84-4686-A30F-BC13B1A6F681}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ejercicio6</RootNamespace>
     <AssemblyName>Ejercicio6</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Matriz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
